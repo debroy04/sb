@@ -1,11 +1,22 @@
-marquee{
+marquee
+{ font-size:200px;
+}
+
+h1
+{ text-align:center;
 color:red;
 font-size:100px;
-margin-top:200px;
+}
 
- }
 
-h1{ 
-text-align:center;
+h2{
+color:red;
+ text-align:center;
+
 font-size:100px;
+}
+
+
+body{
+background:lightblue;
 }
